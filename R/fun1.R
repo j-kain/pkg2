@@ -8,5 +8,5 @@
 #' @examples
 #' add5(5)
 add5 <- function(num){
-    num + 5
+    num + 5 + mean(c(num,5))
 }
