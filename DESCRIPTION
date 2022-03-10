@@ -2,7 +2,7 @@ Package: pkg2
 Title: Add Two Numbers Fool
 Version: 0.0.0.9000
 Authors@R: 
-    person("Johnny", "Martinez", , role = c("aut", "cre"))
+    person("Johnny", "Martinez", , "jane@email.com", role = c("aut", "cre"))
 Description: just adds two random numbers homie!
 License: MIT + file LICENSE
 Encoding: UTF-8
